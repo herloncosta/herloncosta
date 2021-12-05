@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou o Herlon Costa! E é muito bom te ter aqui!</h1>
 
-<!--
-**herloncosta/herloncosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+🔭 Atualmente estou trabalhando na *DNS Telecom Ltda.* Empresa do ramo de Telecomunicações.<br>
+🌱 Atualmente estou aprendendo *HTML5, CSS3, Javascript, ReactJS, Boostrap, SQL Server, HTTP, API, C#, .NET e Linux* no Bootcamp Full-Stack Developer da Digital Innovation One em parceria com a MRV.<br>
+👨‍💻 Todos os meus projetos estão disponíveis em [<img src="https://img.shields.io/badge/-Herlon Costa-05122A?style=flat&logo=github">](https://github.com/herloncosta) e você também pode me encontrar no [<img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin">](https://www.linkedin.com/in/herloncosta) ou no [<img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram">](https://instagram.com/herloncosta_/).<br>
+💬 Pergunte-me sobre *HTML5, CSS3 e Javascript*. Ainda não sou nenhum especialista mas ficarei muito feliz em compartilhar.<br>
+💖 Sou apaixonado pelo imenso universo da T.I. principalmente no contexto de telecomunicações e desenvolvimento. E nas horas vagas gosto de criar algumas artes para mídias sociais utilizando a ferramenta Photoshop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<br>
+
+<div align="center">
+  <a href="https://github.com/herloncosta"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=herloncosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herloncosta&layout=compact&langs_count=7&theme=dracula"></a>
+</div>
+
+<br>
+<br>
+<br>
+  
+<div align="center">
+  
+  ## Aqui estão as tecnologias que eu tenho estudado.
+  
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
+  <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5">
+  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
+  <img src="https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet">
+  <img src="https://img.shields.io/badge/-C Sharp-05122A?style=flat&logo=csharp">
+  <img src="https://img.shields.io/badge/-PS-05122A?style=flat&logo=adobephotoshop">
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
+  <img src="https://img.shields.io/badge/-Mint-05122A?style=flat&logo=linuxmint">
+  <img src="https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu">
+</div>
+  
+<hr>
+
+<div align="center">    
+  <a href="https://api.whatsapp.com/send?phone=5571983012996" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/herloncosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
