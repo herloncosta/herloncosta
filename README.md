@@ -21,7 +21,7 @@
   
 <div align="center">
   
-  ## Aqui estão as tecnologias que eu tenho estudado.
+  ## Aqui estão as tecnologias que estou estudando atualmente.
   
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
   <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github">
