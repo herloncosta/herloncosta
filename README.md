@@ -29,13 +29,8 @@
   <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
   <img src="https://img.shields.io/badge/-PS-05122A?style=flat&logo=adobephotoshop">
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
-  <img src="https://img.shields.io/badge/-Mint-05122A?style=flat&logo=linuxmint">
-  <img src="https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu">
 </div>
   
 <hr>
