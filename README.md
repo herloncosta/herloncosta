@@ -3,7 +3,7 @@
 <br>
 
 👷🏻‍♂️ Atualmente estou trabalhando na *DNS Telecom Ltda.* Empresa do ramo de Telecomunicações.<br>
-🚀 Atualmente estou aprendendo *HTML5, CSS3, Javascript, ReactJS, Boostrap, SQL Server, HTTP, API, C#, .NET e Linux* no Bootcamp Full-Stack Developer da Digital Innovation One em parceria com a MRV.<br>
+🚀 Atualmente estou aprendendo *HTML5, CSS3, Javascript. E pretendo me tornar um Dev Full-Stack.<br>
 🗃️ Todos os meus projetos estão disponíveis em [<img src="https://img.shields.io/badge/-Herlon Costa-05122A?style=flat&logo=github">](https://github.com/herloncosta) e você também pode me encontrar no [<img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin">](https://www.linkedin.com/in/herloncosta) ou no [<img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram">](https://instagram.com/herloncosta_/).<br>
 💬 Pergunte-me sobre *HTML5, CSS3 e Javascript*. Ainda não sou nenhum especialista mas ficarei muito feliz em compartilhar.<br>
 💖 Sou apaixonado pelo imenso universo da T.I. principalmente no contexto de telecomunicações e desenvolvimento. E nas horas vagas gosto de criar algumas artes para mídias sociais utilizando a ferramenta Photoshop.
