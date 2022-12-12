@@ -25,6 +25,7 @@
   
   <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5">
   <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3">
+  <img src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
