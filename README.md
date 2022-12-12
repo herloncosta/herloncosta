@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React">
   <img src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=Node.js">
+  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
   <img src="https://img.shields.io/badge/-PS-05122A?style=flat&logo=adobephotoshop">
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
