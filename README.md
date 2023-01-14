@@ -9,15 +9,6 @@
 💖 Sou apaixonado pelo imenso universo da T.I. principalmente no contexto de telecomunicações e desenvolvimento. E nas horas vagas gosto de criar algumas artes para mídias sociais utilizando a ferramenta Photoshop.
 
 <hr>
-<br>
-
-<div align="center">
-  <a href="https://github.com/herloncosta"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=herloncosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herloncosta&layout=compact&langs_count=7&theme=dracula"></a>
-</div>
-
-<br>
-<br>
-<br>
   
 <div align="center">
   
