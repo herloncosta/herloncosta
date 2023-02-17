@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou o Herlon Costa! E é muito bom te ter aqui!</h1>
+<h1 align="center">Olá, sou o Herlon Costa! E é muito bom te ter aqui!</h1>
 
 <br>
 
