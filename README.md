@@ -25,7 +25,7 @@ Graduando em Análise e Desenvolvimento de Sistemas, pela faculdade Estácio, co
 
 <code>Meu portfólio ainda está em desenvolvimento, mas por hora, tenho alguns repositórios com pequenos projetos e códigos que escreve ao aprender novas tecnologias para servir como fonte de consulta. Fique a vontade para clonar e sugerir melhorias.</code>
 
-## Statistics
+## Statistics 📊
 
 [![Herlon Costa GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=herloncosta&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/herloncosta/github-readme-stats#gh-dark-mode-only)
 [![Herlon Costa GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=herloncosta&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/herloncosta/github-readme-stats#gh-light-mode-only)
@@ -37,7 +37,7 @@ Graduando em Análise e Desenvolvimento de Sistemas, pela faculdade Estácio, co
   <a href="https://www.linkedin.com/in/herloncosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-## Final considerations
+## Final considerations 🤝
 
 Agradeço a você por ter disponibilizado seu tempo para ler essa breve introdução, e ficarei feliz em me conectar com você através dos perfis nas redes sociais. 
 
