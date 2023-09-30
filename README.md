@@ -21,7 +21,7 @@ Graduando em Análise e Desenvolvimento de Sistemas, pela faculdade Estácio, co
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
 </div>
 
-## Meus Projetos Destacados 👷
+## Projects 👷
 
 <code>Meu portfólio ainda está em desenvolvimento, mas por hora, tenho alguns repositórios com pequenos projetos e códigos que escreve ao aprender novas tecnologias para servir como fonte de consulta. Fique a vontade para clonar e sugerir melhorias.</code>
 
